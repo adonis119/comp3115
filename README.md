@@ -9,3 +9,7 @@
 
 21205566 Law Ka Leong
 
+## Data file URL
+[Google Drive](https://drive.google.com/drive/folders/1YGeG_oC-HnrKHa-Z17LaxF6iZ6Q0GjWL?usp=sharing)
+
+The data files are stored in Google Drive. Please access it with HKBU account.
