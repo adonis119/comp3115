@@ -128,4 +128,4 @@ ui-tests/playwright-report
 .vscode
 
 # Data file
-.csv
+*.csv
